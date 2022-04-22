@@ -3,7 +3,7 @@ Module 3 challenge assignment
 
 # Crypto Arbitrage App
 
-This is a python application that reads in two csv files containing price and time data collected from two differnt exchanges (Bitstamp and Coipnbase) for a crypto currency we are interested in (Bitcoin). This data allows us to analyze potential arbitrage opprotunitues that may have been present at certain dates and times in the time period we are examining. 
+This is a python application that reads in two csv files containing price and time data collected from two differnt exchanges (Bitstamp and Coinbase) for a crypto currency we are interested in (Bitcoin). This data allows us to analyze potential arbitrage opprotunitues that may have been present at certain dates and times in the time period we are examining. 
 
 ---
 
